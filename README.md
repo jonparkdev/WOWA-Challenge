@@ -2,7 +2,7 @@
 The goal for this challenge is to test your attention to detail, along with testing your ability to work on an open-ended project.
 
 ## Task
-https://wowa.ca/calculators/first-time-buyer outlines details about various first-time homebuyer programs across Canada. Using this link we want you to build a single page application that will help **Ontarions** figure out what they are eligible for as a first-time home buyer.  To emphasize, **we do not want you to copy/replicate the page**. To put it more concisely, imagine you work for company **X** and they want you to research and create a tool that calculates all the incentives a citizen of Ontario is eligible to receive as a first-time home buyer. That is your task.  
+https://wowa.ca/calculators/first-time-buyer outlines details about various first-time homebuyer programs across Canada. Using this link we want you to build a single page application that will help **Ontarions** figure out what they are eligible for as a first-time home buyer.  To emphasize, **we do not want you to copy/replicate the page**. To put it more concisely, imagine you work for company **X** and they want you to research and create a tool that calculates all the incentives a citizen of Ontario is eligible to receive as a first-time home buyer. 
 
 ## Objective
 - Application must be coded using NextJS and Typescript
